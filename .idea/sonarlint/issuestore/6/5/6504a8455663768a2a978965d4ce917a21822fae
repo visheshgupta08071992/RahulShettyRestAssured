@@ -1,0 +1,15 @@
+
+_
+java:S1854"BRemove this useless assignment to local variable "responseString".(ïÕ½‹8ç™»‘«.
+G
+java:S1128"*Remove this unused import 'Files.Payload'.(İÜğË8‘˜¼‘«.
+P
+java:S1481"3Remove this unused "responseString" local variable.(ïÕ½‹8ç™»‘«.
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(´ˆà¯ıÿÿÿÿ8ç™»‘«.
+0
+java:S1220""Move this file to a named package.
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(ùùÒÔùÿÿÿÿ8§ŠÙ‘«.
+w
+java:S1128"URemove this unused import 'com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer'.(ùùÒÔùÿÿÿÿ8§ŠÙ‘«.

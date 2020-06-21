@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7431de68-8c91-4a9c-ad72-bcaf2ea29fe5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dFoD9D5cRM5h5Szih3XwUa0SEU" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.OAuth2Test.testOAuth2 (2)">
+    <configuration name="JiraTest.testJiraApis" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RahulShettyRestAssured" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JiraTest" />
+      <option name="METHOD_NAME" value="testJiraApis" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuth2Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RahulShettyRestAssured" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OAuth2Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuth2Test.testOAuth2 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RahulShettyRestAssured" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OAuth2Test" />
+      <option name="METHOD_NAME" value="testOAuth2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuth2Test.testOAuth2 (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RahulShettyRestAssured" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OAuth2Test" />
+      <option name="METHOD_NAME" value="testOAuth2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuth2Test.testOAuth2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RahulShettyRestAssured" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OAuth2Test" />
+      <option name="METHOD_NAME" value="testOAuth2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.OAuth2Test.testOAuth2 (2)" />
+        <item itemvalue="TestNG.OAuth2Test.testOAuth2 (1)" />
+        <item itemvalue="TestNG.OAuth2Test.testOAuth2" />
+        <item itemvalue="TestNG.OAuth2Test" />
+        <item itemvalue="TestNG.JiraTest.testJiraApis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7431de68-8c91-4a9c-ad72-bcaf2ea29fe5" name="Default Changelist" comment="" />
+      <created>1592030079488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592030079488</updated>
+      <workItem from="1592030080825" duration="16226000" />
+      <workItem from="1592222813077" duration="3961000" />
+      <workItem from="1592304600693" duration="1700000" />
+      <workItem from="1592455576388" duration="39000" />
+      <workItem from="1592483525941" duration="2929000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Basics.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
